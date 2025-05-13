@@ -1,3 +1,18 @@
+# Private fork of system-prompts-and-models-of-ai-tools
+
+This is a private fork of [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools), adapted for internal organization use.
+
+## Purpose of this private fork
+
+- Customize prompts for the organization's internal AI agents
+- Develop proprietary systems based on public models
+- Maintain version control of internal modifications
+- Selectively sync with upstream updates when appropriate
+
+## Privacy note
+
+This repository is kept private to protect proprietary customizations. According to GPL v3.0, externally distributed code based on these prompts must maintain the original license, but internal undistributed modifications may remain private.
+
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
 
 (All the published system prompts are extracted by myself, except the already open sourced ones and Manus)
